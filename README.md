@@ -1,7 +1,7 @@
 🚀 Setup & Installation
 1️⃣ Clone the Repository
 
-git clone https://github.com/YOUR_GITHUB_USERNAME/time-trove.git
+git clone (https://github.com/pooja-chhikara/TimeTrove-EventBooking.git)
 cd time-trove
 
 2️⃣ Install Dependencies
